@@ -1,6 +1,10 @@
 # Large data files
 *.csv
 *.h5
+*.pkl
+*.data
+*.index
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
